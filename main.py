@@ -19,3 +19,7 @@ with col2:
     decision-making. Let's connect for exciting possibilities.
     """
     st.info(content)
+content2 = """
+ Below you can find some of the apps I have built in Python. Feel free to contact me!
+ """
+st.write(content2)
