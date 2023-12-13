@@ -13,11 +13,12 @@ with col2:
     content =""" 
     I am Prithvy Krishna, B.Tech graduate, recently
     completed a Data Science Bootcamp, excelling in Python, 
-    data analysis, and machine learning. Former IT Assistant,
-    now dedicated to applying evolving data science skills to 
-    meaningful projects. Eager to collaborate on opportunities
-    aligning with my passion for technology and informed 
-    decision-making. Let's connect for exciting possibilities.
+    data analysis, and machine learning. Former IT   Assistant,
+    now dedicated to applying evolving data science skills and
+    python skills to meaningful projects. Eager to collaborate
+    on opportunities aligning with my passion for technology 
+    and informed decision-making. Let's connect for exciting 
+    possibilities.
     """
     st.info(content)
 content2 = """
